@@ -1,0 +1,126 @@
+Country,cases,Country_ISO3,latitud,longitud
+United States,22091,USA,38.0,-97.0
+Spain,7070,ESP,40.0,-4.0
+Brazil,6076,BRA,-10.0,-55.0
+France,3803,FRA,46.0,2.0
+Germany,3533,DEU,51.0,9.0
+England,3320,GBR,54.0,-2.0
+Democratic Republic Of The Congo,2877,COG,-1.0,15.0
+Peru,1940,PER,-10.0,-76.0
+Canada,1419,CAN,60.0,-95.0
+Colombia,1260,COL,4.7465,-75.0974
+Netherlands,1195,NLD,52.5,5.75
+Portugal,898,PRT,39.5,-8.0
+Italy,814,ITA,42.8333,12.8333
+Mexico,789,MEX,23.0,-102.0
+Belgium,726,BEL,50.8333,4.0
+Nigeria,530,NGA,10.0,8.0
+Chile,488,CHL,-30.0,-71.0
+Switzerland,485,CHE,47.0,8.0
+Ghana,394,GHA,8.0,-2.0
+Austria,286,AUT,47.3333,13.3333
+Israel,247,ISR,31.5,34.75
+Argentina,223,ARG,-34.0,-64.0
+Denmark,183,DNK,56.0,10.0
+Sweden,168,SWE,62.0,15.0
+Ireland,160,IRL,53.0,-8.0
+Puerto Rico,154,PRI,18.25,-66.5
+Poland,145,POL,52.0,20.0
+Australia,132,AUS,-27.0,133.0
+Bolivia,122,BOL,-17.0,-65.0
+Scotland,89,,,
+Norway,83,NOR,62.0,10.0
+Hungary,71,HUN,47.0,20.0
+Greece,67,GRC,39.0,22.0
+Ecuador,62,ECU,-2.0,-77.5
+Czech Republic,58,,,
+Luxembourg,54,LUX,49.75,6.1667
+Slovenia,45,SVN,46.0,15.0
+Wales,45,,,
+Romania,36,ROU,46.0,25.0
+Cameroon,34,CMR,6.0,12.0
+Malta,33,MLT,35.8333,14.5833
+Serbia,31,SRB,44.0,21.0
+Finland,30,FIN,64.0,26.0
+Northern Ireland,30,,,
+Croatia,27,HRV,45.1667,15.5
+Central African Republic,17,,,
+Thailand,16,THA,15.0,100.0
+Singapore,16,SGP,1.3667,103.8
+United Arab Emirates,16,ARE,24.0,54.0
+Slovakia,15,SVK,48.6667,19.5
+Turkey,15,TUR,39.0,35.0
+Jamaica,12,JAM,18.25,-77.5
+India,12,IND,17.0,77.0
+Iceland,12,ISL,65.0,-18.0
+Guatemala,12,GTM,15.5,-90.25
+Panama,12,PAN,9.0,-80.0
+Cambodia,11,KHM,13.0,105.0
+Estonia,10,EST,59.0,26.0
+Uruguay,9,URY,-33.0,-56.0
+Dominican Republic,9,DOM,19.0,-70.6667
+Lebanon,8,LBN,33.8333,35.8333
+Republic of Congo,8,,,
+Saudi Arabia,8,SAU,25.0,45.0
+Iran,7,,,
+Martinique,7,MTQ,14.6667,-61.0
+Gibraltar,6,GIB,36.1833,-5.3667
+Costa Rica,6,CRI,10.0,-84.0
+Uganda,6,UGA,1.0,32.0
+Morocco,6,MAR,32.0,-5.0
+New Zealand,5,NZL,-41.0,174.0
+Cyprus,5,CYP,35.0,33.0
+Bulgaria,5,BGR,43.0,25.0
+Lithuania,5,LTU,56.0,24.0
+Liberia,5,LBR,6.5,-9.5
+South Africa,5,ZAF,-29.0,24.0
+Philippines,4,,,
+Andorra,4,AND,42.5,1.6
+Japan,4,JPN,36.0,138.0
+Honduras,4,HND,15.0,-86.5
+South Korea,4,,,
+Taiwan,4,,,
+Latvia,4,LVA,57.0,25.0
+Benin,3,BEN,9.5,2.25
+Belize,3,BLZ,17.25,-88.75
+Sudan,3,SDN,15.0,30.0
+China,3,CHN,35.0,105.0
+Somalia,3,SOM,10.0,49.0
+Qatar,3,QAT,25.5,51.25
+Malaysia,3,MYS,2.5,112.5
+Monaco,3,MCO,43.7333,7.4
+Venezuela,3,,,
+Bosnia And Herzegovina,3,,,
+Mauritius,3,MUS,-20.2833,57.55
+Paraguay,3,PRY,-23.0,-58.0
+Moldova,2,,,
+Aruba,2,ABW,12.5,-69.9667
+Greenland,2,GRL,72.0,-40.0
+South Sudan,2,SSD,8.0,30.0
+Guyana,2,GUY,5.0,-59.0
+Cuba,2,CUB,21.5,-80.0
+Georgia,2,GEO,42.0,43.5
+Montenegro,2,MNE,42.0,19.0
+Russia,2,,,
+French Guiana,2,GUF,4.0,-53.0
+Bahamas,2,,,
+Sierra Leone,2,SLE,8.5,-11.5
+Barbados,1,BRB,13.1667,-59.5333
+Bangladesh,1,BGD,24.0,90.0
+Pakistan,1,PAK,30.0,70.0
+Saint Martin (French part),1,,,
+Haiti,1,HTI,19.0,-72.4167
+Cayman Islands,1,,,
+Kosovo,1,,,
+Guadeloupe,1,GLP,16.25,-61.5833
+Egypt,1,EGY,27.0,30.0
+Hong Kong,1,HKG,22.25,114.1667
+Bermuda,1,BMU,32.3333,-64.75
+Malawi,1,MWI,-13.5,34.0
+New Caledonia,1,NCL,-21.5,165.5
+Nepal,1,NPL,28.0,84.0
+Zambia,1,ZMB,-15.0,30.0
+Fiji,1,FJI,-18.0,175.0
+Curaçao,1,CUW,12.2,-69.0
+Indonesia,1,IDN,-5.0,120.0
+El Salvador,1,SLV,13.8333,-88.9167

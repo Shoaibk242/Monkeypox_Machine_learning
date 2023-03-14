@@ -1,0 +1,111 @@
+country,iso3,who_region,who_region_long,total_conf
+Andorra,AND,EURO,European Region,4
+Argentina,ARG,AMRO,Region of the Americas,894
+Aruba,ABW,AMRO,Region of the Americas,3
+Australia,AUS,WPRO,Western Pacific Region,143
+Austria,AUT,EURO,European Region,326
+Bahamas,BHS,AMRO,Region of the Americas,2
+Bahrain,BHR,EMRO,Eastern Mediterranean Region,1
+Barbados,BRB,AMRO,Region of the Americas,1
+Belgium,BEL,EURO,European Region,789
+Benin,BEN,AFRO,African Region,3
+Bermuda,BMU,AMRO,Region of the Americas,1
+Bolivia (Plurinational State of),BOL,AMRO,Region of the Americas,252
+Bosnia and Herzegovina,BIH,EURO,European Region,9
+Brazil,BRA,AMRO,Region of the Americas,9905
+Bulgaria,BGR,EURO,European Region,6
+Cameroon,CMR,AFRO,African Region,16
+Canada,CAN,AMRO,Region of the Americas,1449
+Central African Republic,CAF,AFRO,African Region,12
+Chile,CHL,AMRO,Region of the Americas,1278
+China,CHN,WPRO,Western Pacific Region,6
+Colombia,COL,AMRO,Region of the Americas,3803
+Congo,COG,AFRO,African Region,5
+Costa Rica,CRI,AMRO,Region of the Americas,24
+Croatia,HRV,EURO,European Region,29
+Cuba,CUB,AMRO,Region of the Americas,8
+Curaçao,CUW,AMRO,Region of the Americas,3
+Cyprus,CYP,EURO,European Region,5
+Czechia,CZE,EURO,European Region,70
+Democratic Republic of the Congo,COD,AFRO,African Region,206
+Denmark,DNK,EURO,European Region,191
+Dominican Republic,DOM,AMRO,Region of the Americas,52
+Ecuador,ECU,AMRO,Region of the Americas,346
+Egypt,EGY,EMRO,Eastern Mediterranean Region,1
+El Salvador,SLV,AMRO,Region of the Americas,21
+Estonia,EST,EURO,European Region,11
+Finland,FIN,EURO,European Region,42
+France,FRA,EURO,European Region,4107
+Georgia,GEO,EURO,European Region,2
+Germany,DEU,EURO,European Region,3672
+Ghana,GHA,AFRO,African Region,107
+Gibraltar,GIB,EURO,European Region,6
+Greece,GRC,EURO,European Region,85
+Greenland,GRL,EURO,European Region,2
+Guadeloupe,GLP,AMRO,Region of the Americas,1
+Guam,GUM,WPRO,Western Pacific Region,1
+Guatemala,GTM,AMRO,Region of the Americas,172
+Guyana,GUY,AMRO,Region of the Americas,2
+Honduras,HND,AMRO,Region of the Americas,11
+Hungary,HUN,EURO,European Region,80
+Iceland,ISL,EURO,European Region,16
+India,IND,SEARO,South-East Asia Region,17
+Indonesia,IDN,SEARO,South-East Asia Region,1
+Iran (Islamic Republic of),IRN,EMRO,Eastern Mediterranean Region,1
+Ireland,IRL,EURO,European Region,217
+Israel,ISR,EURO,European Region,262
+Italy,ITA,EURO,European Region,918
+Jamaica,JAM,AMRO,Region of the Americas,16
+Japan,JPN,WPRO,Western Pacific Region,7
+Jordan,JOR,EMRO,Eastern Mediterranean Region,1
+Latvia,LVA,EURO,European Region,6
+Lebanon,LBN,EMRO,Eastern Mediterranean Region,24
+Liberia,LBR,AFRO,African Region,3
+Lithuania,LTU,EURO,European Region,5
+Luxembourg,LUX,EURO,European Region,57
+Malta,MLT,EURO,European Region,33
+Martinique,MTQ,AMRO,Region of the Americas,1
+Mexico,MEX,AMRO,Region of the Americas,3292
+Monaco,MCO,EURO,European Region,3
+Montenegro,MNE,EURO,European Region,2
+Morocco,MAR,EMRO,Eastern Mediterranean Region,3
+Mozambique,MOZ,AFRO,African Region,1
+Netherlands,NLD,EURO,European Region,1248
+New Caledonia,NCL,WPRO,Western Pacific Region,1
+New Zealand,NZL,WPRO,Western Pacific Region,36
+Nigeria,NGA,AFRO,African Region,624
+Norway,NOR,EURO,European Region,93
+Panama,PAN,AMRO,Region of the Americas,48
+Paraguay,PRY,AMRO,Region of the Americas,17
+Peru,PER,AMRO,Region of the Americas,3444
+Philippines,PHL,WPRO,Western Pacific Region,4
+Poland,POL,EURO,European Region,213
+Portugal,PRT,EURO,European Region,948
+Puerto Rico,PRI,AMRO,Region of the Americas,205
+Qatar,QAT,EMRO,Eastern Mediterranean Region,5
+Republic of Korea,KOR,WPRO,Western Pacific Region,4
+Republic of Moldova,MDA,EURO,European Region,2
+Romania,ROU,EURO,European Region,45
+Russian Federation,RUS,EURO,European Region,2
+Saint Martin,MAF,AMRO,Region of the Americas,1
+San Marino,SMR,EURO,European Region,1
+Saudi Arabia,SAU,EMRO,Eastern Mediterranean Region,8
+Serbia,SRB,EURO,European Region,40
+Singapore,SGP,WPRO,Western Pacific Region,19
+Slovakia,SVK,EURO,European Region,14
+Slovenia,SVN,EURO,European Region,47
+South Africa,ZAF,AFRO,African Region,5
+Spain,ESP,EURO,European Region,7405
+Sri Lanka,LKA,SEARO,South-East Asia Region,1
+Sudan,SDN,EMRO,Eastern Mediterranean Region,18
+Sweden,SWE,EURO,European Region,220
+Switzerland,CHE,EURO,European Region,546
+Thailand,THA,SEARO,South-East Asia Region,12
+The United Kingdom,GBR,EURO,European Region,3720
+Türkiye,TUR,EURO,European Region,12
+Ukraine,UKR,EURO,European Region,5
+United Arab Emirates,ARE,EMRO,Eastern Mediterranean Region,16
+United States of America,USA,AMRO,Region of the Americas,29001
+Uruguay,URY,AMRO,Region of the Americas,14
+Venezuela (Bolivarian Republic of),VEN,AMRO,Region of the Americas,10
+Viet Nam,VNM,WPRO,Western Pacific Region,2
